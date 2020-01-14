@@ -1,0 +1,51 @@
+.Setcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .test {
+    margin-top:30px;
+    margin-left:30px;
+    width: 400px;
+  }
+
+  .Bt{
+    margin-left:30px;
+    width: 90px;
+  }
+
+  .containerAcc {
+    background:white;
+    height: 500px;
+    width: 500px;
+  }
+
+  .formAreaAcc {
+    /* background:white; */
+    height: 500px;
+    width: 500px;
+  }
+
+  .CreateAccount0{
+    display: flex;
+    justify-content: center;
+    margin-top:40px;
+    margin-right:20px;
+  }
+
+  .bgBlue{
+    background: lightskyblue
+  }
+  .bgWhite{
+    background: #FFFFFF
+  }
+
+  #shadowForm {
+    -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);
+    background: lightskyblue;
+    }
+    body#tinymce {
+    background: #FFFFFF
+    }
